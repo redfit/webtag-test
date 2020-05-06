@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/webtag-test`,
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
