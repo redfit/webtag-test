@@ -1,5 +1,6 @@
 // Gatsby supports TypeScript natively!
-import React from "react"
+import * as React from "react"
+import Helmet from "react-helmet"
 import { PageProps, Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
@@ -64,9 +65,6 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
           </article>
         )
       })}
-      <p>広告</p>
-      <div className="uz-redfit-test-01 uz-ny"></div>
-      <script async type="text/javascript" src="https://dev-speee-ad.akamaized.net/tag/redfit-test-01/js/outer-frame.min.js" charSet="utf-8"></script>
     </Layout>
   )
 }

@@ -58,6 +58,8 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
+      <p>広告</p>
+      <div className="uz-redfit-test-01 uz-ny"></div>
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
