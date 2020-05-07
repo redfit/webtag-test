@@ -13,11 +13,14 @@ const addScript = url => {
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
+  let advertiser
 
   useEffect(() => {
-    addScript(
-      "https://dev-speee-ad.akamaized.net/tag/redfit-test-01/js/outer-frame.min.js"
-    )
+    if (location.pathname !== rootPath) {
+      addScript(
+        "https://dev-speee-ad.akamaized.net/tag/redfit-test-01/js/outer-frame.min.js"
+      )
+    }
   })
 
   if (location.pathname === rootPath) {
@@ -59,6 +62,12 @@ const Layout = ({ location, title, children }) => {
         </Link>
       </h3>
     )
+    advertiser = (
+      <>
+        <p>広告</p>
+        <div className="uz-redfit-test-01 uz-ny"></div>
+      </>
+    )
   }
   return (
     <div
@@ -71,8 +80,7 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <p>広告</p>
-      <div className="uz-redfit-test-01 uz-ny"></div>
+      <main>{advertiser}</main>
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
