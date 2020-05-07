@@ -64,6 +64,13 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
           </article>
         )
       })}
+      <p>広告</p>
+      <div className="uz-redfit-test-01 uz-ny"></div>
+      <link rel="stylesheet" href="https://dev-speee-ad.akamaized.net/tag/redfit-test-01/css/outer-style.css" />
+        <script async type="text/javascript"
+                src="https://dev-speee-ad.akamaized.net/tag/redfit-test-01/js/outer-frame.min.js"
+                charSet="utf-8"></script>
+
     </Layout>
   )
 }
