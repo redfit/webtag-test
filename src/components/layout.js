@@ -1,11 +1,24 @@
-import React from "react"
+import React, { useEffect } from "react"
 import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
 
+const addScript = url => {
+  const script = document.createElement("script")
+  script.src = url
+  script.async = true
+  document.body.appendChild(script)
+}
+
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
+
+  useEffect(() => {
+    addScript(
+      "https://dev-speee-ad.akamaized.net/tag/redfit-test-01/js/outer-frame.min.js"
+    )
+  })
 
   if (location.pathname === rootPath) {
     header = (

@@ -70,14 +70,7 @@ const SEO = ({ description, lang, meta, title }) => {
           content: metaDescription,
         },
       ].concat(meta)}
-    >
-      <script
-        defer
-        type="text/javascript"
-        src="https://dev-speee-ad.akamaized.net/tag/redfit-test-01/js/outer-frame.min.js"
-        charSet="utf-8"
-      />
-    </Helmet>
+    />
   )
 }
 
