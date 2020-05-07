@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 07 May 2020 07:01:15 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 07 May 2020 11:09:43 GMT</lastBuildDate><item><title><![CDATA[大阪でTDDブートキャンプに参加したことがあります]]></title><description><![CDATA[大阪で TDD ブートキャンプに参加して、そのときに頂いた腕輪]]></description><link>https://gatsby-starter-blog-demo.netlify.com/tdd-bootcamp/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/tdd-bootcamp/</guid><pubDate>Fri, 08 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;大阪で TDD ブートキャンプに参加して、そのときに頂いた腕輪&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/webtag-test/static/dcd55b4fe231e71bc69c2b73a200355b/6a068/TDD.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQDBQb/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAP/2gAMAwEAAhADEAAAAWEZmMqhNCL/AP/EABkQAQADAQEAAAAAAAAAAAAAAAEAAgQDEf/aAAgBAQABBQI1cyaLt7eeymW4mcE4cyf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8B2o//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAQIS/9oACAECAQE/AZu0/8QAHRAAAgIBBQAAAAAAAAAAAAAAAAERcQISMkJh4f/aAAgBAQAGPwLk6RqWEWeEto6s2n//xAAbEAEBAQACAwAAAAAAAAAAAAABEQAhMVFxkf/aAAgBAQABPyHoK4pqZLjSrhsuPvJPImDcH67/2gAMAwEAAgADAAAAEPAf/8QAFxEBAAMAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxChwh//xAAWEQEBAQAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8Qgwz/AP/EAB8QAQACAQMFAAAAAAAAAAAAAAEAESExUYFBYaHB4f/aAAgBAQABPxDFhWAXPLUSnpS3p1ohpae31LB7KZSeN45A2FS0TbmUDVXlvc//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;TDD&quot;
+        title=&quot;TDD&quot;
+        src=&quot;/webtag-test/static/dcd55b4fe231e71bc69c2b73a200355b/1c72d/TDD.jpg&quot;
+        srcset=&quot;/webtag-test/static/dcd55b4fe231e71bc69c2b73a200355b/a80bd/TDD.jpg 148w,
+/webtag-test/static/dcd55b4fe231e71bc69c2b73a200355b/1c91a/TDD.jpg 295w,
+/webtag-test/static/dcd55b4fe231e71bc69c2b73a200355b/1c72d/TDD.jpg 590w,
+/webtag-test/static/dcd55b4fe231e71bc69c2b73a200355b/a8a14/TDD.jpg 885w,
+/webtag-test/static/dcd55b4fe231e71bc69c2b73a200355b/6a068/TDD.jpg 960w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[SplathonのMiddle Leagueで優勝した記念]]></title><description><![CDATA[Splathon の Middle League で優勝したときにからとうさんから頂いた素晴らしい画像]]></description><link>https://gatsby-starter-blog-demo.netlify.com/middle-league/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/middle-league/</guid><pubDate>Thu, 07 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Splathon の Middle League で優勝したときにからとうさんから頂いた素晴らしい画像&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/webtag-test/static/9d48230a73ebdb8e34b32f7ba5577dec/5a190/entaku.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAACqklEQVQozwGfAmD9ANHGl+rn3N3Z0NnRr+3q2NjOlebi0trQxL/CuNnFeNvQn9zX1ti3kN60nMzJyYeEgFhjbomIibe0oqSgmACdin/RzsLTzcLZz7bj4MjRwWTPxZDZzqrdyIizwc6srZC/taemmpOygmmMgnxEQkElIyBgYF2no4mZjmQAfWJVkYV6lINys6eQvqmAvqd0zMCTxbyon5N9nKCkWUlAZE5Ci4+Mgn98e3t5YF9hUFBKe3x2qKOdp6OWAGpOPox/goyGin14eIJwb4VcSoyCW4R2OUpEKE48OmhdW1NCP2RUbV9cY2hiVWpiW2hfZ0VAQ2xpZqmmpgBaRjqFcEKAdkJyZSCJaByEaBOXhR6UhBxgUBoqHydRNh1iRTZTM1tBOUmgcURvSyJfQFJZKDRBNTOCgXgATEI/fG4in4sYt6YdgFwJp40K1L8S59AJkX8XGxYhVUAxZ0ovak5TVD9LfGVRSDYdSS08UyQzSTRGOTgzABwaJ25lFaaTB+jRAZd8A5yDAu3XBeHJALGfC2FYSTY3OWNMM5GAeJF/iXdoW1tENA8LJ0AUF3kue0U6TgAsLDmLehXMtgXVvwbIswaYhQry2QPn0gTTuQQ+Lh1NPjRTSkBZU1FoYWExKCcZEh4XFCM4JxtXGllxR38AIx4hRDwawK0E5MwAy7YHf3ESxK4HlIgYemwbUTYoTTYpNS0pREE+Oj9BMi8fST8pSUZFMDExNS86KCMpAEEkHEU0MIB0EJ2NFnlsGzsyCSwnFDUzMDkjJUYrJUhEQ005NU47N0pLSFVOOzMqJkZFRmRkYllZWC8wLgBCMy41GxYkGhRERUs+PUgWGBIjJR1AJCBQJRtKRkFNTkxMQT5KQUBNTUxEQ0UsLS5JSUh+f35OT1AkIyP4LQb7ouMFwgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chinese Salty Egg&quot;
+        title=&quot;Chinese Salty Egg&quot;
+        src=&quot;/webtag-test/static/9d48230a73ebdb8e34b32f7ba5577dec/fcda8/entaku.png&quot;
+        srcset=&quot;/webtag-test/static/9d48230a73ebdb8e34b32f7ba5577dec/12f09/entaku.png 148w,
+/webtag-test/static/9d48230a73ebdb8e34b32f7ba5577dec/e4a3f/entaku.png 295w,
+/webtag-test/static/9d48230a73ebdb8e34b32f7ba5577dec/fcda8/entaku.png 590w,
+/webtag-test/static/9d48230a73ebdb8e34b32f7ba5577dec/5a190/entaku.png 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/new-beginnings/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
